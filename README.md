@@ -1,3 +1,9 @@
+## Developed by:Lakshman
+
+## Register no:212222240001
+
+## Date:21/08/2003
+
 # Ex.No: 01A PLOT A TIME SERIES DATA
 
 # AIM:
@@ -12,9 +18,6 @@ To Develop a python program to Plot a time series data (rainfall)
 
 # PROGRAM:
 
-## Developed by:Lakshman
-
-## Register no:212222240001
 ~~~python
 import pandas as pd
 import matplotlib.pyplot as plt
