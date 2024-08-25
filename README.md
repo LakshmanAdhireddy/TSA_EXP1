@@ -2,7 +2,7 @@
 
 ## Register no:212222240001
 
-## Date:21/08/2003
+## Date:
 
 # Ex.No: 01A PLOT A TIME SERIES DATA
 
@@ -12,9 +12,8 @@ To Develop a python program to Plot a time series data (rainfall)
 # ALGORITHM:
 1. Import the required packages like pandas and matplot
 2. Read the dataset using the pandas
-3. Calculate the mean for the respective column.
-4. Plot the data according to need and can be altered monthly, or yearly.
-5. Display the graph.
+3. Plot the data according to need and can be altered monthly, or yearly.
+4. Display the graph.
 
 # PROGRAM:
 
