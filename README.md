@@ -44,4 +44,4 @@ plt.show()
 ![Screenshot (1)](https://github.com/user-attachments/assets/b804055b-70a2-4ba0-8758-ac878a13040a)
 
 # RESULT:
-Thus we have created the python code for plotting the time series of given data.
+Thus, The python code for plotting the time series of given dataset is successfully executed.
